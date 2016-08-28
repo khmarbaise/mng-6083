@@ -12,6 +12,10 @@
   <version>0.1.0-SNAPSHOT</version>
 
   <description>Issue MNG-6083</description>
+
+  <properties>
+    <smpp.component>mng-6083</smpp.component>
+  </properties>
   <scm>
     <developerConnection>scm:git:ssh://git@github.com/khmarbaise/mng-6083.git</developerConnection>
     <connection>scm:git:https://github.com/khmarbaise/mng-6083.git</connection>
